@@ -1,4 +1,4 @@
-[TOC]
+  **typora markdown语法，公式在GitHub未能正确显示**
 
 
 
