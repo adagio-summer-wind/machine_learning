@@ -1,4 +1,3 @@
-[toc]
 
 # 没有看懂，先记结论
 
@@ -30,5 +29,5 @@
 
 # Cross Validation
 
-![]([machine_learning/cross_validation.jpg at main · adagio-summer-wind/machine_learning (github.com)](https://github.com/adagio-summer-wind/machine_learning/blob/main/李宏毅机器学习——2017/pictures/cross_validation.jpg))
+![machine_learning/cross_validation.jpg at main · adagio-summer-wind/machine_learning (github.com)](https://github.com/adagio-summer-wind/machine_learning/blob/main/李宏毅机器学习——2017/pictures/cross_validation.jpg)
 
